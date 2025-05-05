@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product>
+    <name>Samsung Galaxy S20</name>
+    <price>15000</price>
+    <category>Мобільні телефони</category>
+    <inStock>true</inStock>
+  </product>
+  <product>
+    <name>Sony Headphones</name>
+    <price>700</price>
+    <category>Електроніка</category>
+    <inStock>true</inStock>
+  </product>
+  <product>
+    <name>Dell Laptop</name>
+    <price>25000</price>
+    <category>Електроніка</category>
+    <inStock>false</inStock>
+  </product>
+  <product>
+    <name>Apple iPhone 14</name>
+    <price>25000</price>
+    <category>Мобільні телефони</category>
+    <inStock>true</inStock>
+  </product>
+</products>
